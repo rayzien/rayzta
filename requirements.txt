@@ -1,0 +1,2 @@
+rich==13.7.1
+instagrapi==2.18.9
